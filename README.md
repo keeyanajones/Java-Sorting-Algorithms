@@ -1,2 +1,8 @@
 # Java-Sorting-Algorithms
 Java Sorting Algorithms
+IN DEVELOPMENT
+VERSION 1.0.1
+TYPE : Algorithms
+CREATED : Apr 15, 2018
+STATUS : LOCAL TEST
+GITHUB PROJECT : [ ALGORITHMS ]
